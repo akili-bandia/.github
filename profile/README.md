@@ -1,6 +1,6 @@
 # Akili Bandia
 
-Akili *(ya)* Bandia is an artistic research studio that works with machine learning as a cultural, historical, and political material.
+Akili *(ya)* Bandia is a research studio working with machine learning as a cultural, historical, and political material.
 
 *Akili bandia* literally means artificial intelligence in Swahili, but it also names something made, provisional, and imitative. Something that performs intelligence without claiming to be natural, complete, or *halali*.
 
@@ -11,7 +11,7 @@ Based in Nairobi, Akili Bandia moves across code, maps, texts, simulations, and 
 ---
 ## Practice
 
-Akili Bandia develops artistic and speculative research projects where machine learning intersects with:
+Akili Bandia develops projects where machine learning intersects with:
 
 - uncertainty, risk, and navigation
 
@@ -23,7 +23,7 @@ Akili Bandia develops artistic and speculative research projects where machine l
 
 - archives, history, and computational memory
 
-Research here is treated as a form of making. Models are not only evaluated for accuracy, but for what they make visible, what they erase, and who they are designed to protect.
+Research here is treated as a form of making, drawing from artistic, speculative, and technical methods. Models are not only evaluated for accuracy, but for what they make visible, what they erase, and who they are designed to protect.
 
 ---
 ## Orientation
